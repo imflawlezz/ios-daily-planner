@@ -1,3 +1,5 @@
+> **Archived.** This project is no longer maintained and is kept for reference only.
+
 # DailyPlanner
 
 University assignment project for an iOS lab course.
